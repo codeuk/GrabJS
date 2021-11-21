@@ -22,5 +22,5 @@ I've created this tool for purely educational purposes, please don't use this pr
 
 This code has been made easily accessible to change and add to for other developers, so please fork it and give it some updates!
 
-Please Credit @7uk / doopy when making changes to code, Thanks! 💀
+Please Credit @codeuk / doop when making changes to code, Thanks! 💀
 
