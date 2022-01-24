@@ -5,7 +5,7 @@
 // @description  Discord Tamper-Monkey Token Logger
 
 
-// @author       Doopy / GITHUB.COM/7UK
+// @author       doop.fun / github.com/codeuk
 
 
 // @match        https://discord.com
